@@ -1,0 +1,7 @@
+cursos
+
+https://codigofacilito.com/cursos
+http://csharp.com.es/poo/
+http://www.aulafacil.com/cursos/l23541/informatica/programacion/programacion-en-c/programacion-orientada-a-objetos-poo
+https://www.video2brain.com/mx/cursos/c-programacion-orientada-a-objetos
+http://www.mundonet.es/primera-aproximacion-a-c-metodo-a-seguir-durante-todo-el-curso-programacion-orientada-a-objetos-clases-y-objetos-los-pilares-de-la-poo-encapsulamiento-herencia-y-polimorfismo.html?Pg=Entrega1.htm
